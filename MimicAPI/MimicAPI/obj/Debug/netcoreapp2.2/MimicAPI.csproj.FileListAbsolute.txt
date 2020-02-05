@@ -1,0 +1,16 @@
+C:\Users\Nego Negoso\Desktop\ASP.NETCoreWebAPI\MimicAPI\MimicAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Nego Negoso\Desktop\ASP.NETCoreWebAPI\MimicAPI\MimicAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Nego Negoso\Desktop\ASP.NETCoreWebAPI\MimicAPI\MimicAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Nego Negoso\Desktop\ASP.NETCoreWebAPI\MimicAPI\MimicAPI\bin\Debug\netcoreapp2.2\MimicAPI.deps.json
+C:\Users\Nego Negoso\Desktop\ASP.NETCoreWebAPI\MimicAPI\MimicAPI\bin\Debug\netcoreapp2.2\MimicAPI.runtimeconfig.json
+C:\Users\Nego Negoso\Desktop\ASP.NETCoreWebAPI\MimicAPI\MimicAPI\bin\Debug\netcoreapp2.2\MimicAPI.runtimeconfig.dev.json
+C:\Users\Nego Negoso\Desktop\ASP.NETCoreWebAPI\MimicAPI\MimicAPI\bin\Debug\netcoreapp2.2\MimicAPI.dll
+C:\Users\Nego Negoso\Desktop\ASP.NETCoreWebAPI\MimicAPI\MimicAPI\bin\Debug\netcoreapp2.2\MimicAPI.pdb
+C:\Users\Nego Negoso\Desktop\ASP.NETCoreWebAPI\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.csprojAssemblyReference.cache
+C:\Users\Nego Negoso\Desktop\ASP.NETCoreWebAPI\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.RazorAssemblyInfo.cache
+C:\Users\Nego Negoso\Desktop\ASP.NETCoreWebAPI\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.RazorAssemblyInfo.cs
+C:\Users\Nego Negoso\Desktop\ASP.NETCoreWebAPI\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.AssemblyInfoInputs.cache
+C:\Users\Nego Negoso\Desktop\ASP.NETCoreWebAPI\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.AssemblyInfo.cs
+C:\Users\Nego Negoso\Desktop\ASP.NETCoreWebAPI\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Nego Negoso\Desktop\ASP.NETCoreWebAPI\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.dll
+C:\Users\Nego Negoso\Desktop\ASP.NETCoreWebAPI\MimicAPI\MimicAPI\obj\Debug\netcoreapp2.2\MimicAPI.pdb
