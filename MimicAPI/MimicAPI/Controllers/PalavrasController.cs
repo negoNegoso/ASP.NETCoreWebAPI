@@ -30,7 +30,9 @@ namespace MimicAPI.Controllers
         [HttpGet]
         public ActionResult Obter(int id)
         {
-            return Ok(_banco.Palavras.Find(id));
+            var obj = Ok(_banco.Palavras.Find(id));
+            if (obj == null) return NotFound();
+            return Ok();
         }
 
         //-- /api/palavras(Post:id,nome,atico,pontuacao,criacao)
